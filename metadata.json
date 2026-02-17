@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Sarah Atef Beauty Salon",
+  "description": "A luxury, high-end beauty salon web application featuring advanced multi-step booking, service showcases, and a premium gallery experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
